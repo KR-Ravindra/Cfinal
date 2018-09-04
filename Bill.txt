@@ -1,0 +1,106 @@
+Bill for Mr/Ms. Richa  ---------
+
+Medicine id	MEdicine name	   Medicine price	Quantity
+
+     3		  Coughmed		       48		5
+
+     2		   Coldmed		       45		1
+
+Total amount paid (paid or to be paid) is: 285
+===============================================================================
+
+Bill for Mr/Ms. FinalTest  ---------
+
+Medicine id	MEdicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		3
+
+     2		   Coldmed		       45		9
+
+Total amount paid (paid or to be paid) is: 531
+===============================================================================
+
+Bill for Mr/Ms. FinalUSerTest  ---------
+
+Medicine id	MEdicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		3
+
+     2		   Coldmed		       45		5
+
+     3		  Coughmed		       48		2
+
+     1		Paracetmol		       42		6
+
+     2		   Coldmed		       45		9
+
+Total amount paid (paid or to be paid) is: 1104
+===============================================================================
+
+Bill for Mr/Ms. 4  ---------
+
+Medicine id	Medicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		3
+
+     2		   Coldmed		       45		4
+
+Total amount paid (paid or to be paid) is: 306
+===============================================================================
+
+Bill for Mr/Ms. FinalTestAdmin  ---------
+
+Medicine id	Medicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		3
+
+     2		   Coldmed		       45		4
+
+     3		  Coughmed		       48		8
+
+     4		         4		        4		9
+
+     1		Paracetmol		       42		10
+
+     2		   Coldmed		       45		19
+
+Total amount paid (paid or to be paid) is: 2001
+===============================================================================
+
+Bill for Mr/Ms. Testcase  ---------
+
+Medicine id	Medicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		5
+
+     2		   Coldmed		       45		4
+
+     3		  Coughmed		       48		2
+
+     4		         4		        4		5
+
+Total amount paid (paid or to be paid) is: 506
+===============================================================================
+
+Bill for Mr/Ms. train  ---------
+
+Medicine id	Medicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		5
+
+     4		         4		        4		5
+
+Total amount paid (paid or to be paid) is: 230
+===============================================================================
+
+Bill for Mr/Ms. Akshith  ---------
+
+Medicine id	Medicine name	   Medicine price	Quantity
+
+     1		Paracetmol		       42		3
+
+     2		   Coldmed		       45		5
+
+Total amount paid (paid or to be paid) is: 351
+===============================================================================
+
